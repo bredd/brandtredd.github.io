@@ -10,14 +10,14 @@ Presently, as Chief Information Officer/CTO at the [Smarter Balanced Assessment 
 
 # Find Brandt on the Web
 <div class="iconlist">
-<a href="https://www.linkedin.com/in/brandtredd"><img src="res/LinkedIn.png"/>LinkedIn</a><br/>
-<a href="http://www.ofthat.com"><img src="res/RSS.png"/>OfThat Blog</a>, Education, Technology, Energy, and Trust<br/>
-<a href="http://www.filemeta.org"><img src="res/FileMeta.png"/>FileMeta Project</a><br/>
-<a href="http://www.edmatrix.org"><img src="res/EdMatrix.png"/>EdMatrix Taxonomy of Education Technology Standards</a><br/>
-<a href="https://github.com/bredd"><img src="res/GitHub.png"/>GitHub</a><br/>
-<a href="https://twitter.com/brandtredd"><img src="res/Twitter.png"/>Twitter</a><br/>
-<a href="http://bollard.brandtredd.com"><img src="res/Bollard.png"/>Brandt's Bollard Blog</a><br/>
-<a href="https://www.mormon.org/me/64T4"><img src="res/Mormon.png"/>Mormon.org</a>
+<a href="https://www.linkedin.com/in/brandtredd"><img src="res/LinkedIn.png" alt="LinkedIn" />LinkedIn</a><br/>
+<a href="http://www.ofthat.com"><img src="res/RSS.png" alt="Blog Feed" />OfThat Blog</a>, Education, Technology, Energy, and Trust<br/>
+<a href="http://www.filemeta.org"><img src="res/FileMeta.png" alt="File Meta" />FileMeta Project</a><br/>
+<a href="http://www.edmatrix.org"><img src="res/EdMatrix.png" alt="Education Matrix" />EdMatrix Taxonomy of Education Technology Standards</a><br/>
+<a href="https://github.com/bredd"><img src="res/GitHub.png" alt="GitHub" />GitHub</a><br/>
+<a href="https://twitter.com/brandtredd"><img src="res/Twitter.png" alt="Twitter" />Twitter</a><br/>
+<a href="http://bollard.brandtredd.com"><img src="res/Bollard.png" alt="Bollard" />Brandt's Bollard Blog</a><br/>
+<a href="https://www.mormon.org/me/64T4"><img src="res/Mormon.png" alt="Mormon" />Mormon.org</a>
 </div>
 
 # Select Career Achievements
