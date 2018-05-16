@@ -1,2 +1,2 @@
 # brandtredd.github.io
-Source to BrandtRedd.com website
+Source to BrandtRedd.org website
