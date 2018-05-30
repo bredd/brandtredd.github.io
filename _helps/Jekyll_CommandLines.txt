@@ -1,1 +1,3 @@
 jekyll build --source /mnt/f/Source/BrandtRedd/brandtredd.github.io --destination /mnt/f/Source/BrandtRedd/brandtredd.github.io/_site
+
+jekyll build --source /mnt/f/Source/FileMeta/filemeta.github.io --destination /mnt/d
