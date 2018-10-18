@@ -8,9 +8,10 @@
 
 <body>
 
-<div id="main">
+<div id="frame">
 	{% include header.html %}
-	<div id="content" style="min-height: 400px;">
+    <main>
+	<article>
 		<div class="title">{{ page.title }}</div>
 		<table>
 			<tr>
@@ -30,7 +31,8 @@
 				<td>{{ content }}</td>
 			</tr>
 		</table>
-	</div>
+	</article>
+    </main>
 	{% include footer.html %}
 </div>
 
