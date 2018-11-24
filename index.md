@@ -6,7 +6,7 @@ layout: default
 
 Brandt Redd is an expert in the application of Information Technology to support learning, discovery, and research. In the education field he seeks to apply principles of [personalized learning](http://www.ofthat.com/2013/03/theories-of-education-reform.html) to improve achievement for all students.
 
-Presently, as Chief Information Officer/CTO at the [Smarter Balanced Assessment Consortium](http://www.smarterbalanced.org) Brandt oversees online services for consortium members, and directs the development of an open technology platform to support next-generation assessments.
+As Education Technology Strategist associated with EdMatrix.org, Brandt helps clients develop and refine their technology strategies, provides industry insights, informs application of technology standards, and supports invention of new EdTech offerings.
 
 # Find Brandt on the Web
 <div class="iconlist">
@@ -21,7 +21,7 @@ Presently, as Chief Information Officer/CTO at the [Smarter Balanced Assessment 
 </div>
 
 # Select Career Achievements
- * Currently directing the development of the [SmarterApp](http://www.smarterapp.org) suite of open source student assessment technology at the [Smarter Balanced Assessment Consortium](http://www.smarterbalanced.org).
+ * Directed the development and deployment of the [SmarterApp](http://www.smarterapp.org) suite of open source student assessment technology for the [Smarter Balanced Assessment Consortium](http://www.smarterbalanced.org).
  * Co-Conceived and launched the [Learning Resource Metadata Initiative](http://www.lrmi.net/) funded by the [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/).
  * Developed the [Personalized Learning Model](http://www.ofthat.com/2011/10/personalized-learning-model.html) to guide the educational technology strategy for the [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/).
  * Created an effective and simple IT Operations strategy for the [Buzz Learning System](https://agilix.com/) at Agilix Labs.
