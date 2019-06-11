@@ -8,12 +8,19 @@ Brandt Redd is an expert in the application of Information Technology to support
 
 As Education Technology Strategist associated with EdMatrix.org, Brandt helps clients develop and refine their technology strategies, provides industry insights, informs application of technology standards, and supports invention of new EdTech offerings.
 
+# Current Efforts
+
+<div class="iconlist">
+<a href="https://matchmakeredlabs.net"><img src="res/mm32.png" alt="Match Maker Logo" />CTO MatchMaker Education Labs</br>
+<a href="https://www.filemeta.org"><img src="res/FileMeta.png" alt="File Meta" />FileMeta Project</a><br/>
+</div>
+
+
 # Find Brandt on the Web
 <div class="iconlist">
 <a href="https://www.linkedin.com/in/brandtredd"><img src="res/LinkedIn.png" alt="LinkedIn" />LinkedIn</a><br/>
 <a href="http://www.ofthat.com"><img src="res/RSS.png" alt="Blog Feed" />OfThat Blog</a>, Education, Technology, Energy, and Trust<br/>
-<a href="http://www.filemeta.org"><img src="res/FileMeta.png" alt="File Meta" />FileMeta Project</a><br/>
-<a href="http://www.edmatrix.org"><img src="res/EdMatrix.png" alt="Education Matrix" />EdMatrix Taxonomy of Education Technology Standards</a><br/>
+<a href="http://www.edmatrix.org"><img src="res/EdMatrix.png" alt="Education Matrix" />EdMatrix Catalog of Education Technology Standards</a><br/>
 <a href="https://github.com/bredd"><img src="res/GitHub.png" alt="GitHub" />GitHub</a><br/>
 <a href="https://twitter.com/brandtredd"><img src="res/Twitter.png" alt="Twitter" />Twitter</a><br/>
 <a href="http://bollard.brandtredd.com"><img src="res/Bollard.png" alt="Bollard" />Brandt's Bollard Blog</a><br/>
@@ -31,6 +38,7 @@ As Education Technology Strategist associated with EdMatrix.org, Brandt helps cl
 
 # Professional Specialties
 
+ * Education Technology Strategy
  * Assessment Technology
  * Metadata and Data Modeling
  * Educational Data Formats and Protocols
