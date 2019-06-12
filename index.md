@@ -12,9 +12,8 @@ As Education Technology Strategist associated with EdMatrix.org, Brandt helps cl
 
 <div class="iconlist">
 <a href="https://matchmakeredlabs.net"><img src="res/mm32.png" alt="Match Maker Logo" />CTO MatchMaker Education Labs<br/>
-<a href="https://www.filemeta.org"><img src="res/FileMeta.png" alt="File Meta" />FileMeta Project</a><br/>
+<a href="https://www.filemeta.org"><img src="res/FileMeta.png" alt="File Meta" />FileMeta Project</a>
 </div>
-
 
 # Find Brandt on the Web
 <div class="iconlist">
