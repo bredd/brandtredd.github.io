@@ -16,6 +16,7 @@ As Education Technology Strategist associated with EdMatrix.org, Brandt helps cl
 </div>
 
 # Find Brandt on the Web
+
 <div class="iconlist">
 <a href="https://www.linkedin.com/in/brandtredd"><img src="res/LinkedIn.png" alt="LinkedIn" />LinkedIn</a><br/>
 <a href="http://www.ofthat.com"><img src="res/RSS.png" alt="Blog Feed" />OfThat Blog</a>, Education, Technology, Energy, and Trust<br/>
