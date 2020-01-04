@@ -9,7 +9,7 @@ Brandt Redd is an expert in the application of Information Technology to support
 # Current Efforts
 
 <div class="iconlist">
-<a href="https://matchmakeredlabs.net"><img src="res/mm32.png" alt="Match Maker Logo" />CTO MatchMaker Education Labs</a><br/>
+<a href="https://matchmakeredlabs.net"><img src="res/mm32.png" alt="Match Maker Logo" />CTO, MatchMaker Education Labs</a><br/>
 <a href="https://www.edmatrix.org/matrix.html"><img src="res/EdMatrix-Logo32.png" alt="EdMatrix Logo" />EdMatrix Creator and Coordinator</a><br/>
 <a href="https://www.filemeta.org"><img src="res/FileMeta.png" alt="File Meta" />FileMeta Project</a>
 </div>
@@ -56,7 +56,6 @@ Brandt Redd is an expert in the application of Information Technology to support
  * 2001-2010: Co-Founder and Chief Technology Officer, [Agilix Labs, Inc.](http://www.agilix.com)
  * 1998-2001: Chief Scientist, [Ancestry.com](http://www.ancestry.com)
  * 1996-1998: Sr. Director, Advanced Technology, Open Market Inc.
-
  * 1986-1996: Co-Founder and Core Developer, [Folio Corporation](https://en.wikipedia.org/wiki/Folio_Corporation)
 
 # Patents
