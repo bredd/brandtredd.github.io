@@ -1,6 +1,6 @@
 ---
 title: Brandt Redd
-layout: default
+layout: feature
 ---
 <img src="Brandt_Redd2.jpg" style="float:right; width: 20em; margin: 1em;" alt="Photo of Brandt Redd." />
 
