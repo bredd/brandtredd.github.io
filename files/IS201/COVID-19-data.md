@@ -5,7 +5,7 @@ layout: default
 This is a dataset collected by Johns Hopkins University that represents confirmed cases of COVID-19 infection, deaths due to the virus, and recovered cases.
 
 * Download the dataset: [COVID-19-Time-Series-csse.csv](/files/IS201/COVID-19-Time-Series-csse.csv)
-* Updated: 17 March 2020
+* Updated: 18 March 2020
 
 As of March 2020, they post new data daily at the [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) on GitHub.
 
