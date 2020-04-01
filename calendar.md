@@ -14,7 +14,30 @@ This free/busy calendar is to facilitate scheduling meetings with me. When sched
         <span style="font-size:0.75em;">(Should be your computer's setting.)</span>
     </div>
     <script>
-        document.getElementById("tz").innerHTML = Intl.DateTimeFormat().resolvedOptions().timeZone;
+        {
+            var tz = Intl.DateTimeFormat().resolvedOptions().timeZone
+            if (tz == "America/New_York")
+            {
+                tz = "Eastern (US & Canada)";
+            }
+            else if (tz == "America/Chicago")
+            {
+                tz = "Central (US & Canada)";
+            }
+            else if (tz == "America/Denver")
+            {
+                tz = "Mountain (US & Canada)";
+            }
+            else if (tz == "America/Phoenix")
+            {
+                tz = "Arizona (US)";
+            }
+            else if (tz == "America/Los_Angeles")
+            {
+                tz = "Pacific (US & Canada)";
+            }
+            document.getElementById("tz").innerHTML = tz;
+        }
     </script>
 
     <iframe src="https://calendar.google.com/calendar/embed?height=700&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=YnJhbmR0QHJlZGQub3Jn&amp;color=%237986CB&amp;mode=WEEK" style="border:solid 1px #777" width="800" height="700" frameborder="0" scrolling="no"></iframe>
