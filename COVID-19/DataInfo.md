@@ -12,7 +12,7 @@ The following data are updated most days. Using the program, you can retrieve th
 
 <hr/>
 
-The program and information are [On Github Here](https://github.com/FileMeta/ReadAndConvertCovid19Data) and you can dowload the executable [Here](https://github.com/FileMeta/ReadAndConvertCovid19Data/releases)
+The program and information are [On Github Here](https://github.com/FileMeta/ReadAndConvertCovid19Data) and you can download the executable [Here](https://github.com/FileMeta/ReadAndConvertCovid19Data/releases)
 
 More details on how to use the program will be posted shortly. For now, understand that it's a command-line program and if you run it with the following command-line it will print the help text:
 
