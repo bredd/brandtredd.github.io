@@ -7,10 +7,17 @@ Johns Hopkins University posts COVID-19 data daily [2019 Novel Coronavirus COVID
 The following data are updated most days. Using the program, you can retrieve the data yourself with different filters and aggregation. See below for details.
 
 * World Data, broken down by country: [COVID-19-Time-Series-World.csv](COVID-19-Time-Series-World.csv)
-* US Data, broken down by state and county: [COVID-19-Time-Series-World.csv](COVID-19-Time-Series-World.csv)
+* US Data, broken down by state and county: [COVID-19-Time-Series-US.csv](COVID-19-Time-Series-US.csv)
 * Updated: {% include_relative COVID-19-Updated.txt %}
 
 <hr/>
 
 The program and information are [On Github Here](https://github.com/FileMeta/ReadAndConvertCovid19Data) and you can dowload the executable [Here](https://github.com/FileMeta/ReadAndConvertCovid19Data/releases)
+
+More details on how to use the program will be posted shortly. For now, understand that it's a command-line program and if you run it with the following command-line it will print the help text:
+
+```
+ReadAndConvertCovid19Data -h
+```
+
 
