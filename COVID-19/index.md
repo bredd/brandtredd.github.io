@@ -12,9 +12,14 @@ The following data are updated most days. Using the program, you can retrieve th
 
 <hr/>
 
+Here are two video tutorials:
+
+* [Retrieve and Analyze COVID-19 Data using Microsoft Excel](https://youtu.be/W-NF39ttIr4)
+* [Retrieve and Analyze COVID-19 Data using Tableau](https://youtu.be/T1q-e_KaEBg)
+
 The program and information are [On Github Here](https://github.com/FileMeta/ReadAndConvertCovid19Data) and you can download the executable [Here](https://github.com/FileMeta/ReadAndConvertCovid19Data/releases).
 
-More details on how to use the program will be posted shortly. For now, understand that it's a command-line program and if you run it with the following command-line it will print the help text:
+The video tutorials are the best way to get started. You can view the help file for the program by [downloading it](https://github.com/FileMeta/ReadAndConvertCovid19Data/releases) and running the following command line:
 
 ```
 ReadAndConvertCovid19Data -h
