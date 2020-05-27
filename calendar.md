@@ -13,7 +13,7 @@ This free/busy calendar is to facilitate scheduling meetings with me. When sched
         Calendar shown in timezone: <strong><span id="tz">-</span></strong><br/>
         <span style="font-size:0.75em;">(Should be your computer's setting.)</span>
     </div>
-    <iframe id="gcal" src="_blank" style="border:solid 1px #777" width="800" height="700" frameborder="0" scrolling="no"></iframe>
+    <iframe id="gcal" src="_blank" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
     <script>
         {
             var tz = Intl.DateTimeFormat().resolvedOptions().timeZone
@@ -48,6 +48,6 @@ This free/busy calendar is to facilitate scheduling meetings with me. When sched
                 tzDisplay = tz;
             }
             document.getElementById("tz").innerHTML = tzDisplay;
-            document.getElementById("gcal").setAttribute("src", "https://calendar.google.com/calendar/embed?height=700&wkst=1&bgcolor=%23ffffff&src=YnJhbmR0QHJlZGQub3Jn&color=%237986CB&mode=WEEK&ctz=" + encodeURIComponent(tz));
+            document.getElementById("gcal").setAttribute("src", "https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&src=YnJhbmR0QHJlZGQub3Jn&color=%237986CB&mode=WEEK&ctz=" + encodeURIComponent(tz));
         }
     </script>
