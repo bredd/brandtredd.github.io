@@ -5,18 +5,17 @@ layout: default
     <p>This free/busy calendar is to facilitate scheduling meetings with me. When scheduling, please consider the following:
     </p>
 
-    <ul>
+    <ul style="font-size:0.9em">
         <li>I'm located in Mountain time zone</li>
         <li>My typical work hours are Monday-Friday 8:00am to 5:30pm</li>
-        <li>Please use your typical calendaring program to send me an appointment (e.g. Google Calendar, Microsoft Outlook, etc.)</li>
+        <li>Please use your preferred calendaring program to send me an appointment (e.g. Google Calendar, Microsoft Outlook, etc.)</li>
         <li>Be sure to check all-day appointments listed at the top of the calendar.</li>
     </ul>
 
     <div>
-        Calendar shown in timezone: <strong><span id="tz">-</span></strong><br/>
-        <span style="font-size:0.75em;">(Should be your computer's setting.)</span>
+        Calendar shown in timezone: <strong><span id="tz">-</span></strong> <span style="font-size:0.75em;">(Should be your computer's setting.)</span>
     </div>
-    <iframe id="gcal" src="_blank" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    <iframe id="gcal" src="about:blank" style="border:solid 1px #777" width="800" height="600" scrolling="no"></iframe>
     <script>
         {
             var tz = Intl.DateTimeFormat().resolvedOptions().timeZone
