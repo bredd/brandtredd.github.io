@@ -2,7 +2,7 @@
 title: COVID-19 (Coronavirus) Data
 layout: default
 ---
-Johns Hopkins University posts COVID-19 data daily [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) (as of February 2020). I wrote an open source program to download the data, filter and aggregate, and then store in a format that is convenient for analysis using tools like [Microsoft Excel](https://www.microsoft.com/microsoft/excel) or [Tableau](https://www.tableau.com/).
+Johns Hopkins University posts COVID-19 data daily [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) (as of August 2020). I wrote an open source program to download the data, filter and aggregate, and then store in a format that is convenient for analysis using tools like [Microsoft Excel](https://www.microsoft.com/microsoft/excel) or [Tableau](https://www.tableau.com/).
 
 Here are two video tutorials on how to retrieve the data and perform your own analysis:
 
