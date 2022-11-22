@@ -114,6 +114,12 @@ body {
     padding: 5px;
 }
 
+#wideframe {
+    max-width: 75em;
+    margin: 5px auto;
+    padding: 5px;
+}
+
 /* Manage floating layout */
 .clearfix::after {
     content: "";
@@ -152,8 +158,9 @@ div.siteblock {
     color: black;
     font-style: normal;
     font-variant: normal;
-    margin-top: 0;
-    margin-bottom: 0;
+    text-decoration: none;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
     line-height: 1;
 }
 /* Site subtitle or slogan */
@@ -320,11 +327,20 @@ h1 {
     font-size: 2.0em;
     font-weight: normal;
     color: var(--clr_accent1);
+    text-decoration: underline;
     margin-top: 0.5em;
     margin-bottom: 0.2em;
 }
 
 h2 {
+    font-size: 2.0em;
+    font-weight: normal;
+    color: var(--clr_accent1);
+    margin-top: 0.5em;
+    margin-bottom: 0.2em;
+}
+
+h3 {
     font-size: 1.5em;
     font-weight: bold;
     color: var(--clr_accent2);
@@ -332,14 +348,14 @@ h2 {
     margin-bottom: 0.2em;
 }
 
-h3 {
+h4 {
     font-size: 1.2em;
     font-weight: bold;
     color: var(--clr_accent2);
     margin-top: 0.2em;
 }
 
-h4 {
+h5 {
     font-size: 1.2em;
     font-weight: bold;
     font-style: italic;
@@ -347,18 +363,10 @@ h4 {
     margin-top: 0.2em;
 }
 
-h5 {
-    font-size: 1.1em;
-    font-weight: bold;
-    text-decoration: underline;
-    color: black;
-    margin-top: 0.2em;
-}
-
 h6 {
     font-size: 1.1em;
     font-weight: bold;
-    text-decoration: none;
+    text-decoration: underline;
     color: black;
     margin-top: 0.2em;
 }
@@ -436,7 +444,47 @@ table.layout th, table.layout td {
     padding: 0;
 }
 
+/* === Two-column layout for main page === */
+.columns {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.column-main {
+    flex-basis: 0;
+    flex-grow: 5;
+}
+
+.column-pub {
+    flex-basis: 0;
+    flex-grow: 2;
+}
+
+.column-pub ul {
+    margin-left: 1.5em;
+}
+
+.column-pub li {
+    margin-bottom: 0.5em;
+}
+
 /* === Special Icon List Just for BrandtRedd.org === */
+ul.iconlist {
+    margin-left: 2em;
+}
+ul.iconlist li {
+    list-style: none;
+    padding-left: 2em;
+    text-indent: -2em;
+}
+ul.iconlist img {
+    width: 1em;
+    height: auto;
+    margin-right: 1em;
+}
+
 div.iconlist {
     margin-left: 2em;
 }
