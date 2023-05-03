@@ -1,3 +1,40 @@
 {
-    "text": "Directory Placeholder"
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+        {
+            "@type": "SoftwareSourceCode",
+            "name": "bredd.tech/CommandLineLexer",
+            "description": "CodeBit class for lexing (parsing) command lines.",
+            "url": "https://raw.githubusercontent.com/bredd/CommandLineLexer/main/CommandLineLexer.cs",
+            "version": "3.0.0",
+            "keywords": "CodeBit",
+            "datePublished": "2022-09-21",
+            "author": "Brandt Redd",
+            "license": "https://opensource.org/licenses/BSD-3-Clause"
+        },
+        {
+            "@type": "ImageObject",
+            "description": "Bollard Icon",
+            "comment": "Included in this directory simply as an example of something other than source code.",
+            "url": "https://brandtredd.org/res/Bollard.png"
+        },
+        {
+            "@type": "SoftwareSourceCode",
+            "name": "bredd.tech/CommandLineLexer",
+            "description": "CodeBit class for lexing (parsing) command lines.",
+            "url": "https://github.com/bredd/CommandLineLexer/raw/a0db819b9c00d35cc9d843ab429ad3199c43bab1/CommandLineLexer.cs",
+            "version": "2.0.0",
+            "keywords": "CodeBit",
+            "datePublished": "2022-09-21",
+            "license": "https://opensource.org/licenses/BSD-3-Clause"
+        },
+        {
+            "@type": "SoftwareSourceCode",
+            "name": "bredd.tech/CommandLineLexer/Program.cs",
+            "description": "Unit test for CommandLineLexer.cs",
+            "url": "https://github.com/bredd/CommandLineLexer/raw/main/Program.cs",
+            "comment": "Example of source a source code entry that's not a codebit."
+        }
+    ]
 }
