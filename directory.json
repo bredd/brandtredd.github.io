@@ -16,8 +16,14 @@
         {
             "@type": "ImageObject",
             "description": "Bollard Icon",
+            "keywords": ["bollard", "icon", "graphic"],
             "comment": "Included in this directory simply as an example of something other than source code.",
-            "url": "https://brandtredd.org/res/Bollard.png"
+            "url": "https://brandtredd.org/res/Bollard.png",
+            "subitem": {
+                "comment": "Just here for testing.",
+                "integer": 123,
+                "boolean": true
+            }
         },
         {
             "@type": "SoftwareSourceCode",
