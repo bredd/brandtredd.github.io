@@ -23,8 +23,10 @@
                 "comment": "Just here for testing.",
                 "integer": 123,
                 "boolean": true
-            }
-        },
+            },
+            "integer": 123,
+            "boolean": true
+    },
         {
             "@type": "SoftwareSourceCode",
             "name": "bredd.tech/CommandLineLexer",
