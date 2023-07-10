@@ -11,3 +11,4 @@ Resources in support of Brandt Redd's keynote at ICALT 2023 on 10 July 2023.
 * [Paper: An Astonishing Regularity in Student Learning Rate](https://doi.org/10.1073/pnas.2221311120), (2022) Kenneth Koedinger et. al.
 * [Paper: The influence of strength of drive on functional fixedness and perceptual recognition.](https://doi.org/10.1037/h0044683), (1962) Sam Glucksberg
 * [Book: The Art of Game Design](https://schellgames.com/art-of-game-design)
+* [EdMatrix Directory of Learning Technology Standards](https://www.edmatrix.org)
