@@ -7,6 +7,7 @@ title: Elder Quest 2025
 
 * [The Slides](https://1drv.ms/p/s!AsDairlA1Y6-l7EJiVOQPIs0_bFKEA?e=Kltxw2)
 * [The Handout](ElderQuest2025/CybersecurityHandout.pdf)
+* [The Video](https://1drv.ms/v/s!AsDairlA1Y6-l7Fbg7pxp0lo1wZyqA?e=nZrK2E)
 
 ## Authentication
 
