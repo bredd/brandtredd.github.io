@@ -6,8 +6,7 @@ title: Empty Nesters 2025
 ## Materials
 
 * [The Slides](https://1drv.ms/p/s!AsDairlA1Y6-l7RaVglMnXJT7ZhuXg?e=YabgWZ)
-* [The Handout](emptynesters2021.pdf)
-* [The Video](https://1drv.ms/v/s!AsDairlA1Y6-l7Fbg7pxp0lo1wZyqA?e=nZrK2E)
+* [The Handout](emptynesters2025.pdf)
 
 ## Authentication
 
