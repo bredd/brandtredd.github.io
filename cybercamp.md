@@ -3,7 +3,7 @@ title: Cyber Camp 2025
 ---
 Download this blank web page and save it to your computer:
 
-* <a href="/cc/page.html>" download="page.html">Blank Web Page</a>
+* <a href="/cc/page.html" download="page.html">Blank Web Page</a>
 
 Or, you can copy and paste this text.
 
@@ -27,17 +27,17 @@ Or, you can copy and paste this text.
 </html>
 ```
 
-Open the file in Notepad (or any other text editor) and add the following right under the `&lt;h1&gt;` title.
+Open the file in Notepad (or any other text editor) and add the following right under the `<h1>` title.
 
 ```html
-    <button id="win">Click to win $1 million.</button>
+<button id="win">Click to win $1 million.</button>
 ```
 
 Save your changes and open the page in your web browser by double-clicking on the file.
 
 But wait! We don't have a million dollars to give away. So, we need to add some stuff.
 
-First, add this to the `&lt;style&gt;` section of your page.
+First, add this to the `<style>` section of your page. (Don't include the `<style>` tags.)
 
 ```html
 <style>
@@ -52,7 +52,7 @@ First, add this to the `&lt;style&gt;` section of your page.
 
 Refresh the page and you will see how your button has moved to 10 spaces from the top and 10 spaces from the left.
 
-Now, add this to the `&lt;script&gt;` section of your page.
+Now, add this to the `<script>` section of your page.
 
 ```html
 <script>
@@ -103,7 +103,7 @@ document.getElementById("win").onmouseover = onMouseOver;
 
 ## Animation
 
-Add this to the `&lt;style&gt;` section of your page:
+Add this to the `<style>` section of your page:
 
 ```css
 @keyframes shade {
