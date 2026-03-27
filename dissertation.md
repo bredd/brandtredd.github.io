@@ -7,7 +7,7 @@ in Project-Based Capstone Courses
 {: style="font-size: 2.5em"}
 
 Brandt Redd\\
-21 March 2026 at 9:00am\\
+21 March 2026 at 9:00am (Mountain Time)\\
 Meldrum Conference Room, WEB 2760\\
 Warnock Engineering Building\\
 University of Utah
