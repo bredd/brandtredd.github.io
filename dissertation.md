@@ -17,3 +17,6 @@ University of Utah
 * [Primary Stream](https://youtube.com/live/yoGwH36FkXw)
 * [Backup 1](https://youtube.com/live/JDlowOa2hs0) [Backup 2](https://youtube.com/live/rfeRs1_IHoM) (Only if the primary link doesn't work)
 {: style="font-size: 1.2em;"}
+
+### Excess Information for the Curious
+I will be presenting the dissertation defense using Zoom but only my remote committee member will have the Zoom link. Zoom has a convenient feature that transmits the meeting to a YouTube live stream. Doing so makes it more convenient for viewers; they don't have to install Zoom software. And it keeps viewers from accidentally interfering with the presentation if they leave their camera or mic on.
