@@ -1,6 +1,10 @@
 ## Presentations and Publications
 
-* (2022) Presenter: **Learning Engineering is Engineering**, [2022 IEEE ICICLE Conference on Learning Engineering](https://sagroups.ieee.org/icicle/2022-icicle-conference/), July 2022
+* (2024) Co-Author: **“Layering Sociotechnical Cybersecurity Concepts Within Project-Based Learning”** Brandt Redd, Ying Tang, Hadar Ziv, and Sameer Patil, in *[Proceedings of the 2024 ACM Conference on International Computing Education Research (ICER '24)](https://doi.org/10.1145/3632620.3671093)*
+* (2024) Co-Presenter: **“Designing Tools With Learning Engineering In Mind”**, [2024 IEEE ICICLE Conference on Learning Engineering](https://sagroups.ieee.org/icicle/2024-icicle-conference-on-learning-engineering), July 2024
+* (2023) Keynote Speaker: **“Things AI Does Not Change About Learning”**, [2023 IEEE ICALT Conference on Advanced Learning Technologies](https://tc.computer.org/tclt/icalt-2023/), July 2023
+* (2023) Co-Presenter: **“Teaching and Learning Has Met its Match: Using Context in Service of Learner Needs”**, [2023 IEEE ICICLE Conference on Learning Engineering](https://sagroups.ieee.org/icicle/2023-icicle-conference-on-learning-engineering/2023-icicle-conference/), July 2023
+* (2022) Presenter: **“Learning Engineering is Engineering”**, [2022 IEEE ICICLE Conference on Learning Engineering](https://sagroups.ieee.org/icicle/2022-icicle-conference/), July 2022
 * (2022) Contributing Author: *[Learning Engineering Toolkit](https://www.routledge.com/Learning-Engineering-Toolkit-Evidence-Based-Practices-from-the-Learning/Goodell-Kolodner/p/book/9781032232829)*, Chapter 4 **“Learning Engineering is Engineering”**.
 * (2022) Presenter: **“Navigating the Standards – EdMatrix”**, Access 4 Learning Community (A4L) [Privacy & Interoperability Symposium](https://privacy.a4l.org/2022-symposium/), April 2022
 * (2021) Presenter: **“What We Know About Learning Innovation”**, Kentucky Innovative Learning Consortium, August 2021

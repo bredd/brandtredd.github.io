@@ -47,6 +47,24 @@ First, add this to the `<style>` section of your page. (Don't include the `<styl
     top: 10em;
     transition-duration: 0.3s;
 }
+@keyframes shade {
+    0% {
+        opacity: 100%;
+    }
+    50% {
+        opacity: 0%;
+    }
+    100% {
+        opacity: 100%;
+    }
+}
+
+h1 {
+    animation-name: shade;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    position: absolute;
+}
 </style>
 ```
 
