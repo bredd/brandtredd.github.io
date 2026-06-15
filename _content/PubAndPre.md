@@ -1,5 +1,6 @@
-## Presentations and Publications
+## Publications and Presentations
 
+* (2026) Author: **"Teaching Cybersecurity to Computing Students in Project-Based Capstone Courses"**, Brandt Redd, [Doctoral Dissertation, University of Utah]. *url pending.*
 * (2024) Co-Author: **“Layering Sociotechnical Cybersecurity Concepts Within Project-Based Learning”** Brandt Redd, Ying Tang, Hadar Ziv, and Sameer Patil, in *[Proceedings of the 2024 ACM Conference on International Computing Education Research (ICER '24)](https://doi.org/10.1145/3632620.3671093)*
 * (2024) Co-Presenter: **“Designing Tools With Learning Engineering In Mind”**, [2024 IEEE ICICLE Conference on Learning Engineering](https://sagroups.ieee.org/icicle/2024-icicle-conference-on-learning-engineering), July 2024
 * (2023) Keynote Speaker: **“Things AI Does Not Change About Learning”**, [2023 IEEE ICALT Conference on Advanced Learning Technologies](https://tc.computer.org/tclt/icalt-2023/), July 2023
